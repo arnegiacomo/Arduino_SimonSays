@@ -20,7 +20,7 @@ const int DIODEF = 250;
 int BLINKLENGTH = 100;
 
 int level = 0;
-const int LENGTH = 10;
+const int LENGTH = 5;
 int difficultylength = 0;
 int difficulty = 1;
 bool lost = false;
