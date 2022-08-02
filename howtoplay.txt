@@ -1,0 +1,23 @@
+How to play:
+
+1. Power on the device
+
+2. When the lights are blinking in R - Y - G - B pattern, please select the preferred difficulty 
+by pressing one of the 4 buttons (see difficulty levels below).
+
+3. Repeat the computers random sequence of blinks and sounds by pressing the corresponding colored buttons. E.g. if red led blinks, press red button. 
+Each time the sequence increases by 1, until you either beat the level or lose.
+
+4. If you lose the lights blink in R - G - Y - B pattern
+
+5. If you win the all lights blink on and off at the same time
+
+6. Press reset button (small black to the left) to go back to difficulty selection and try again with a new randomized sequence!
+
+
+Difficulties (by sequence length):
+
+Red: 5 - Easy
+Green: 10 - Medium
+Yellow: 15 - Hard
+Blue: 20 - Very hard
