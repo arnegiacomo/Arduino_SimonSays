@@ -3,6 +3,7 @@ My first Arduino - Uno project! I made this from scratch while learning how to u
 *****
 ## Demo 
 https://www.youtube.com/watch?v=rgylvqflyRg&ab_channel=ArneMunthe-Kaas
+(Note: the difficulty levels were tweaked after the video, red is now 5 instead of 10)
 ****
 ## See schematics and how to play! 
 https://github.com/h593267/Arduino_SimonSays/blob/main/schematic.png
